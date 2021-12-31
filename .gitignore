@@ -1,0 +1,10 @@
+__pycache__/
+
+# Venv
+venv/
+
+# PyCharm stuff
+.idea/
+
+# Database
+db.sqlite3
